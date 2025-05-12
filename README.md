@@ -70,23 +70,69 @@ Currently pursuing an **MS in Data Science** at **Northeastern University**, wit
 
 ## 👩‍💻 Work Experience
 
-### 🔧 AI Engineer Intern, T2D2 (AI for Infrastructure)
-*Jan 2024 – Present*
-- Developed ML tools to detect damage in concrete infrastructure
-- Integrated vision models with backend pipelines to flag high-risk areas
-- Tech: Python, PyTorch, AWS, Docker
+Excellent — I’ll now **enrich each role** with just the right amount of added content to make them **deeper, more insightful, and clearly aligned with impact, ownership, and technical contribution**, while still keeping it **concise and powerful for GitHub and ATS/resume readability**.
 
-### 🧑‍💼 Applied ML Engineer, Parrots Inc (Assistive Robotics)
-*Jan 2023 – Dec 2023*
-- Built multimodal pipelines using YOLO, MediaPipe, AudioKit & LLMs
-- Enabled wheelchair navigation via hand gestures + voice control
-- Enhanced accessibility for patients with ALS and other mobility impairments
+Here’s the **final, upgraded version** of all **five roles**, refined for clarity, strength, and storytelling:
 
-### 💡 Data Science Analyst, ValueLabs
-*July 2020 – Aug 2022*
-- Led ML model development for client analytics dashboards
-- Built BI visualizations for revenue, churn, and ROI across multiple sectors
-- Awarded *Star Employee* for contributions to innovation in analytics
+---
+
+### 👩‍💻 Work Experience
+
+---
+
+#### 🏋️‍♀️ **Data Scientist / Software Developer – Redprint** *(Smart Gym Infrastructure)*
+
+**Mar 2025 – Present** | Seattle, WA
+
+* **Architected scalable data pipelines** to track gym equipment usage and user engagement, powering analytics for facilities.
+* **Designed and implemented interactive dashboards** to monitor session patterns and identify underutilized assets.
+* **Defined foundational engagement metrics** used by stakeholders for decision-making on equipment investment and scheduling.
+* **Proposed and prototyped an NLP-based chatbot assistant** to automate operational FAQs, streamlining internal support processes.
+* **Collaborated cross-functionally** across product, frontend, and backend teams to embed real-time analytics into the Redprint platform.
+  **Tech:** **Python**, **SQL**, **Streamlit**, **React**, **AWS**, **Firebase**
+
+#### 🧑‍💼 **Machine Learning Software Developer Intern - Parrots Inc** 
+
+**Jul 2024 – Aug 2024** | Boston, MA
+
+* **Designed voice-enabled UI components** and integrated them with patient-facing iOS apps to improve accessibility for ALS patients.
+* **Trained health prediction models** (XGBoost) on synthetic and real-world Apple Health data, achieving >85% accuracy in wellness estimations.
+* **Created a cognitive training module** (Clock Game) with real-time feedback and speech support for Alzheimer’s patients.
+* **Worked closely with medical researchers and accessibility experts** to validate use-case fit and design for inclusivity.
+  **Tech:** **Swift**, **Python**, **XGBoost**, **MediaPipe**, **YOLO**, **AudioKit**, **HealthKit**
+
+#### 🔧 **Machine Leaning Engineer CO-OP – T2D2** *(ML for Infrastructure)*
+
+**Jan 2024 – Jun 2024** | New York, NY
+
+* **Developed computer vision models (YOLOv8, Detectron2)** for automatic detection of façade anomalies, improving structural issue identification by **25%**.
+* **Streamlined reporting** through automated **JSON-based workflows** and dynamic templates for ASTM-compliant inspection summaries.
+* **Integrated OpenAI’s LLM APIs** to handle user queries on inspection results, enabling instant answers and contextual insights.
+* **Created modular SDK tools** for rapid deployment of NLP and vision components across inspection sites.
+* **Tested and optimized OpenAI-based scripts** for accurate JSON retrieval and response classification in production use cases.
+  **Tech:** **Python**, **PyTorch**, **YOLOv8**, **Detectron2**, **OpenAI API**, **LLMs**, **JSON**
+
+#### 💡 **Senior Software Engineer – ValueLabs** *(Data Engineering & BI)*
+
+**Mar 2022 – Aug 2022** | Hyderabad, India
+
+* **Led development of data-driven dashboards** using **Power BI** and **SSRS**, enabling executive-level insights into ROI, churn, and cost allocation.
+* **Automated ETL pipelines** across diverse data sources, improving report generation speed by **50%**.
+* **Integrated backend optimizations** and DAX modeling to streamline visualization layers and reduce load time.
+* **Championed full-stack + data workflows**, bridging .NET and BI systems for seamless SaaS delivery.
+* **Mentored junior engineers**, onboarded cross-functional collaborators, and was honored as **"Star of the Month"** for high-impact delivery.
+  **Tech:** **Power BI**, **SQL Server**, **.NET Core**, **Angular**, **SSRS**, **DAX**
+
+#### 💼 **Software Engineer Intern – ValueLabs** *(Full Stack Development)*
+
+**Dec 2019 – Mar 2022** | Hyderabad, India
+
+* **Built a multi-tier SaaS platform** for IT asset disposal, integrating frontend dashboards (Angular) with backend services (C# .NET).
+* **Designed and deployed RESTful APIs** supporting large-scale workflows across asset tagging, recycling, and lifecycle reporting.
+* **Created optimized SQL procedures** (3000+ lines) and reduced query runtimes by **40%** through advanced indexing and refactoring.
+* **Delivered high-performance Angular modules** for real-time status tracking and audit compliance reporting.
+* **Gained exposure to enterprise-grade architecture** and implemented end-to-end features under tight agile cycles.
+  **Tech:** **.NET Core**, **C#**, **Angular 8**, **SQL Server**, **REST APIs**
 
 ---
 
