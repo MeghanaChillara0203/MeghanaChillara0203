@@ -102,10 +102,9 @@ Currently pursuing an **MS in Data Science** at **Northeastern University**, wit
 
 **M.S. in Data Science**  
 Northeastern University, USA (2022–2024)  
-- GPA: 3.91/4.0
 
-**B.Tech in Electronics & Communication Engineering**  
-Muffakham Jah College of Engineering and Technology, India  
+**B.Tech in Computer Science**  
+Jawaharlal Nehru Technological University, India  
 - Graduated with First Class Distinction
 
 ---
