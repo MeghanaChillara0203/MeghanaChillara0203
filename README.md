@@ -1,8 +1,10 @@
 # Hi there, I'm Meghana Chillara 👋
 
-I’m a researcher-engineer hybrid passionate about building AI systems that create real-world impact. Whether it's building sustainability bots, deploying computer vision models in healthcare, or architecting intelligent real estate tools — I love combining data, code, and creativity to solve hard problems.
+I’m an engineer with a creative edge and a deep technical foundation—designing and building intelligent systems that make a measurable impact. My work spans the full lifecycle of product development: from architecting scalable web platforms and deploying production-grade machine learning models, to designing data pipelines and integrating multimodal AI into real-world applications.
 
-Currently pursuing an **MS in Data Science** at **Northeastern University**, with 4+ years of prior experience across industry, academia, and startups. I've worked on AI-driven health solutions, edge-compute powered chatbots, multimodal data pipelines, and more.
+With a Master’s in Data Science from **Northeastern University** and over **four years of experience** across startups, research labs, and enterprise teams, I’ve contributed to solutions in **healthcare**, **infrastructure**, **assistive robotics**, and **sustainability**. I thrive at the intersection of software engineering and applied machine learning—where thoughtful design meets powerful execution.
+
+I believe impactful systems are those that are not just intelligent, but also usable, scalable, and ethically built.
 
 ---
 
