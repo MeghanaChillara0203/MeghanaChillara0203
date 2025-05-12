@@ -70,16 +70,6 @@ Currently pursuing an **MS in Data Science** at **Northeastern University**, wit
 
 ## 👩‍💻 Work Experience
 
-Excellent — I’ll now **enrich each role** with just the right amount of added content to make them **deeper, more insightful, and clearly aligned with impact, ownership, and technical contribution**, while still keeping it **concise and powerful for GitHub and ATS/resume readability**.
-
-Here’s the **final, upgraded version** of all **five roles**, refined for clarity, strength, and storytelling:
-
----
-
-### 👩‍💻 Work Experience
-
----
-
 #### 🏋️‍♀️ **Data Scientist / Software Developer – Redprint** *(Smart Gym Infrastructure)*
 
 **Mar 2025 – Present** | Seattle, WA
